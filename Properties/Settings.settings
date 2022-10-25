@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="College_Management_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CMS_DBConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\\v11.0;AttachDbFilename=C:\\Users\\bluesky\\Documents\\Visual Studio 2012\\Databases\\colle\\CMS_DB.mdf;Integrated Security=True;Connect Timeout=30&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\\v11.0;AttachDbFilename=C:\\Users\\bluesky\\Documents\\Visual Studio 2012\\Databases\\colle\\CMS_DB.mdf;Integrated Security=True;Connect Timeout=30</Value>
+    </Setting>
+    <Setting Name="realcon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="servernam" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="serverpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="conserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="readcon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">you</Value>
+    </Setting>
+    <Setting Name="userdb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="usercon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="usercolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlLight</Value>
+    </Setting>
+    <Setting Name="userstyle" Type="DevComponents.DotNetBar.eStyle" Scope="User">
+      <Value Profile="(Default)">Office2007Blue</Value>
+    </Setting>
+    <Setting Name="connectionsuccess" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="realconlocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="realconremote" Type="System.String" Scope="User">
+      <Value Profile="(Default)">n</Value>
+    </Setting>
+    <Setting Name="smsusername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">com</Value>
+    </Setting>
+    <Setting Name="smspassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pass</Value>
+    </Setting>
+    <Setting Name="smsallow" Type="System.String" Scope="User">
+      <Value Profile="(Default)">No</Value>
+    </Setting>
+    <Setting Name="TertiaryConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DENIS\SQLEXPRESS;Initial Catalog=Tertiary;Persist Security Info=True;User ID=sa;Password=jesus@lord1&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DENIS\SQLEXPRESS;Initial Catalog=Tertiary;Persist Security Info=True;User ID=sa;Password=jesus@lord1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
